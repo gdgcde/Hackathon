@@ -3,7 +3,7 @@
 ## ¿Qué es un Hackathon?
 Un hackathon es un encuentro de programadores o grupos multidisciplinarios cuyo objetivo es el desarrollo colaborativo de software o soluciones tecnológicas para un problema o reto. Los logros individuales son importantes, pero lo es más importante la interacción que se genera entre todos ellos ya que todo el proceso de trabajo se convierte en una manera de aprendizaje.-
 ## ¿Dónde se realiza el Hackathon GDG CDE?
-
+El evento se realiza en el local de Datapar https://www.datapar.com.py/ quien es el patrocinador del evento, sitio en Calle Inmaculada Concepcion, 727 - Boquerón - Ciudad del Este - Paraguay.  Ver Mapa https://www.google.es/maps/place/Datapar+S.A./@-25.5172211,-54.6177247,17z/data=!3m1!4b1!4m5!3m4!1s0x94f68ff9506a7415:0xf4ffe02a858d06fa!8m2!3d-25.517226!4d-54.615536
 ## ¿Cuándo se realiza el Hackathon?
 
 ## ¿Cuál es el horario de las actividades?
