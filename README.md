@@ -1,7 +1,7 @@
 # FAQ Hackathon GDG Ciudad del Este
 
 ## ¿Qué es un Hackathon?
-Un hackathon es un un encuentro de programadores o grupos multidisciplinarios cuyo objetivo es el desarrollo colaborativo de software o soluciones tecnológicas para un problema o reto. Los logros individuales son importantes, pero lo es más importante la interacción que se genera entre todos ellos ya que todo el proceso de trabajo se convierte en una manera de aprendizaje.-
+Un hackathon es un encuentro de programadores o grupos multidisciplinarios cuyo objetivo es el desarrollo colaborativo de software o soluciones tecnológicas para un problema o reto. Los logros individuales son importantes, pero lo es más importante la interacción que se genera entre todos ellos ya que todo el proceso de trabajo se convierte en una manera de aprendizaje.-
 ## ¿Dónde se realiza el Hackathon GDG CDE?
 
 ## ¿Cuándo se realiza el Hackathon?
